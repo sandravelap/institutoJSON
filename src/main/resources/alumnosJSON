@@ -1,0 +1,17 @@
+[
+    {
+      "nombre": "Juana",
+      "edad": 16,
+      "curso": "SMR1"
+    },
+    {
+      "nombre": "Lolo",
+      "edad": 20,
+      "curso": "DAM1"
+    },
+    {
+      "nombre": "Saúl",
+      "edad": 21,
+      "curso": "DAM2"
+    }
+]
